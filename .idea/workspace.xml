@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac187780-35c7-48f7-9f8a-69a52ae4ddb2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beats.css" beforeDir="false" afterPath="$PROJECT_DIR$/beats.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beats.js" beforeDir="false" afterPath="$PROJECT_DIR$/beats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676195810665</updated>
       <workItem from="1676195813074" duration="4676000" />
+      <workItem from="1676260260336" duration="1277000" />
     </task>
     <servers />
   </component>
